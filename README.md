@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Slim Khiari.
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning java JEE.
-- 📫 How to reach me : slim.khiari@ens.uvsq.fr or slim.khiari.03@gmail.com.
+- 📫 How to reach me : slim.khiari.03@gmail.com.
