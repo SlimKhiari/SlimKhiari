@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Slim Khiari.
-- 👀 I’m interested in software engineering.
+- 👀 I’m interested in computer engineering.
 - 📫 How to reach me : slim.khiari.03@gmail.com.
